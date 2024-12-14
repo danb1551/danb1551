@@ -1,5 +1,5 @@
 # Hi,
-Hi, for those who didn't understand, suck it.
+for those who didn't understand, suck it.
 
 
 
