@@ -7,7 +7,7 @@ Now seriously. All folders will have a main file that you run. If there is a "re
 
 I'm like a UDP connection. I don't care if you get it.
 - Instagram: @danik_12sniper
-- [Web](http://termux.wz.cz:8080)
+- [Web](http://termux.wz.cz:8080/)
 
 <!---
 danb1551/danb1551 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
