@@ -4,6 +4,7 @@ Hi, for those who didn't understand, suck it.
 
 
 Now seriously. All folders will have a main file that you run. If there is a "requirements.txt" file, you can use any tools to install it.
+
 I'm like a UDP connection. I don't care if you get it.
 - Instagram: @danik_12sniper
 - Web: termux.wz.cz
