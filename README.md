@@ -1,11 +1,6 @@
 # Hi,
-for those who didn't understand, suck it.
+I am an IT web applications student.
 
-
-
-Now seriously. All folders will have a main file that you run. If there is a "requirements.txt" file, you can use any tools to install it.
-
-I'm like a UDP connection. I don't care if you get it.
 - Instagram: [@danik_12sniper](https://instagram.com/danik_12sniper)
 - [Web](https://termux.wz.cz)
 
