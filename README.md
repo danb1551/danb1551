@@ -1,7 +1,7 @@
 # Hi,
 I am an IT web applications student.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Connor9994)
+![Profile Views](https://komarev.com/ghpvc/?username=danb1551)
 
 - Instagram: [@danik_12sniper](https://instagram.com/danik_12sniper)
 - [Web](https://termux.wz.cz)
