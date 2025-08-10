@@ -1,8 +1,16 @@
 # Hi,
 I am an IT web applications student.
 
-![Profile Views](https://komarev.com/ghpvc/?username=danb1551)
+| Rank | Languages  |
+|-----:|------------|
+|     1| Python     |
+|     2| SQL        |
+|     3| PHP        |
+|     4| HTML&CSS   |
+|   ...| ...        |
+|    -∞| JavaScript |
 
-- Instagram: [@danik_12sniper](https://instagram.com/danik_12sniper)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=danb1551) -->
+# Connect with me:
 
-#changetheworld
+Instagram: [@danik_12sniper](https://instagram.com/danik_12sniper)
