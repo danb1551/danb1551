@@ -20,3 +20,4 @@
 # Connect with me:
 
 Instagram: [@danik_12sniper](https://instagram.com/danik_12sniper)
+![github contribution grid snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
