@@ -15,10 +15,12 @@
 |     4| HTML&CSS   |
 |   ...| ...        |
 |    -∞| JavaScript |
+![github contribution grid snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=danb1551&theme=github-compact)
 -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=danb1551) -->
 # Connect with me:
 
 Instagram: [@danik_12sniper](https://instagram.com/danik_12sniper)
 
-![github contribution grid snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![danb1551's GitHub chart](https://ghchart.rshah.org/danb1551)
