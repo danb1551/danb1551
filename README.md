@@ -1,4 +1,4 @@
-# Hi
+# Hi,
 
 ![top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danb1551&layout=compact&exclude_repo=dt_laurel_sprout,dt_laurel_sprout_oss,vt_laurel_sprout,vt_laurel_sprout_oss,shrp_xiaomi_laurel_sprout,oddlyspaced.github.io,gims-dump,device_oneplus_avicii,oos-cam)
 
@@ -20,4 +20,5 @@
 # Connect with me:
 
 Instagram: [@danik_12sniper](https://instagram.com/danik_12sniper)
+
 ![github contribution grid snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
