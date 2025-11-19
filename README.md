@@ -1,5 +1,9 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-
+<style>
+  body {
+    margin:30px;
+    }
+</style>
 ###
 
 <div>
