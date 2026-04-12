@@ -7,6 +7,8 @@
 <img align="right" height="200" src="404.gif"/>
 Programming in python (mostly), Java, JavaScript
 <br>
+Successfuly edited file and closed Vim without googling or killing vim process 💪
+<br>
 Can script in bash and SQL
 <br>
 Know HTML, CSS, Linux (BTW, I use Arch!)
