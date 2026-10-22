@@ -4,6 +4,8 @@
 
 ###### But not my commitment to women (they are scary)
 
+ - Feel free to contact me. I don't have many friends anyway that have same priorities.
+
 <img align="right" height="200" src="404.gif"/>
 Programming in python (mostly), Java, JavaScript
 <br>
