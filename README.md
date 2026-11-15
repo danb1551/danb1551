@@ -4,7 +4,15 @@
 
 ###### But not my commitment to women (they are scary)
 
- - Feel free to contact me. I don't have many friends anyway that have same priorities.
+ - Feel free to contact me.
+
+### My website
+
+[danb1551.cz](https://danb1551.cz)
+
+![](https://kuma.danb1551.cz/api/badge/2/status)
+
+### Info
 
 <img align="right" height="200" src="404.gif"/>
 Programming in python (mostly), Java, JavaScript
